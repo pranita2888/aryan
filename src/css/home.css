@@ -1,0 +1,83 @@
+@media screen and (max-width: 480px) {
+    .ed_p1{
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .ed_p{
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .portfolio{
+        padding: 0;
+    }
+    .skills{
+        padding-left: 0;
+    }
+    .skillsH{
+        font-size: medium;
+       margin: 0;
+    }
+    .SkillsP{
+        font-size: small;
+    }
+    .skillsCol{
+        width: 30%;
+        }
+    .aboutRow{
+        justify-content: center;
+    }
+    .aboutCol{
+        height: 50%;
+        width: 100%;
+        padding: 0%;
+        
+    }
+    .aboutP{
+        font-size: smaller;
+    }
+}
+@media screen and (max-width: 375px) {
+    .education {
+      padding: 0%;
+    }
+    .ed_p1{
+        font-size: 12px;
+        font-weight: 300;
+    }
+    .ed_p{
+        font-size: 13px;
+        font-weight: 700;
+    }
+    .skillsH{
+        font-size: small;
+    }
+    .aboutRow{
+        justify-content: center;
+    }
+    .aboutCol{
+        width: 100%;
+        padding: 0%;
+        
+    }
+    .aboutP{
+        font-size: xx-small;
+    }
+}
+/* @media screen and (max-width: 767px) {
+    .aboutRow{
+        justify-content: center;
+    }
+    .aboutCol{
+        height: 50%;
+        width: 100%;
+        padding: 0%;
+        
+    }
+    .aboutDiv{
+        padding: 0%;
+    }
+    .aboutP{
+        font-size: medium;
+    }
+    
+} */
